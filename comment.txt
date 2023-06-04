@@ -1,0 +1,7 @@
+Author: Yiming
+my first c program*
+It is interesting!
+comment 1
+comment 2
+add
+comment 3
